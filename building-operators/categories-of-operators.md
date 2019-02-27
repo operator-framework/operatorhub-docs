@@ -1,9 +1,3 @@
----
-description: >-
-  Operators fall into a few different categories, based on the type of
-  applications they run
----
-
 # Categories of Operators
 
 Operators fall into a few different categories, based on the type of applications they run:  
