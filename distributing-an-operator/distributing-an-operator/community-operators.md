@@ -1,9 +1,8 @@
 # Community Operators
 
-### Community Operators
+## Community Operators
 
-Community Operators are maintained by the relevant representatives on the [community GitHub repo](https://github.com/operator-framework/community-operators). This repo holds all of the manifests required to start the Operator under OLM. There is not official support promised for these Community Operators, but you can add links to documentation, issue trackers and other relevant materials.  
-
+Community Operators are maintained by the relevant representatives on the [community GitHub repo](https://github.com/operator-framework/community-operators). This repo holds all of the manifests required to start the Operator under OLM. There is not official support promised for these Community Operators, but you can add links to documentation, issue trackers and other relevant materials.
 
 The following steps are required to ship a new version of a Community Operator.
 
@@ -20,6 +19,5 @@ The following steps are required to ship a new version of a Community Operator.
    2. Must have installed a previous version of the Operator \(\`replaces\` from above\) that matches a channel
    3. May upgrade your Operator automatically if configured to do so
 
-[View the readme on the community repo for more info](https://github.com/operator-framework/community-operators)  
-
+[View the readme on the community repo for more info](https://github.com/operator-framework/community-operators)
 

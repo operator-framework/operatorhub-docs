@@ -1,5 +1,7 @@
 # Operator Scorecard
 
+## Operator Scorecard
+
 The best way to test whether your Operator is compatible with OpenShift is to use our Operator Scorecard. This is an automated test you can run locally and a test that we will use as part of our verification tests of your Operator. Here’s a summary of the tests:
 
 * Basic Tests
@@ -13,6 +15,5 @@ The best way to test whether your Operator is compatible with OpenShift is to us
   * Spec Fields With Descriptors
   * Status Fields With Descriptors
 
-[Read more about the Scorecard](https://github.com/operator-framework/operator-sdk/blob/master/doc/test-framework/scorecard.md)  
-
+[Read more about the Scorecard](https://github.com/operator-framework/operator-sdk/blob/master/doc/test-framework/scorecard.md)
 

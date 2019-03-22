@@ -1,22 +1,22 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Operator Developer Guide](README.md)
 
 ## Operator Overview
 
 * [What is an Operator](operator-overview/what-is-an-operator.md)
 * [Desired Customer Experience](operator-overview/desired-customer-experience.md)
 
-## Operator Framework and OperatorHub
+## Building Operators
 
-* [Operator Framework and OperatorHub](operator-framework-and-operatorhub/operator-framework-and-operatorhub.md)
-* [Categories of Operators](operator-framework-and-operatorhub/categories-of-operators.md)
-* [Advantages of an Operator](operator-framework-and-operatorhub/advantages-of-an-operator.md)
-* [Building Operators](operator-framework-and-operatorhub/building-operators/README.md)
-  * [Types of Operators](operator-framework-and-operatorhub/building-operators/types-of-operators.md)
-  * [Operator SDK](operator-framework-and-operatorhub/building-operators/operator-sdk.md)
-  * [Base Images](operator-framework-and-operatorhub/building-operators/base-images.md)
-  * [Operator Scorecard](operator-framework-and-operatorhub/building-operators/operator-scorecard.md)
+* [Building Operators](building-operators/building-operators/README.md)
+  * [Types of Operators](building-operators/building-operators/types-of-operators.md)
+  * [Operator SDK](building-operators/building-operators/operator-sdk.md)
+  * [Base Images](building-operators/building-operators/base-images.md)
+  * [Operator Scorecard](building-operators/building-operators/operator-scorecard.md)
+* [Advantages of an Operator](building-operators/advantages-of-an-operator.md)
+* [Categories of Operators](building-operators/categories-of-operators.md)
+* [Using-Operator-Framework](building-operators/operator-framework-and-operatorhub.md)
 
 ## Distributing an Operator
 

@@ -25,6 +25,5 @@
 
 \[_1\] if distributed through a Red Hat managed registry_
 
-_\[2\] Will be changed to Universal Bse Image \(UBI\) requirement once available_  
-
+_\[2\] Will be changed to Universal Bse Image \(UBI\) requirement once available_
 

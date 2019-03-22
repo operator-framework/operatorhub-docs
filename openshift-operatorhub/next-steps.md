@@ -1,9 +1,6 @@
 # Next Steps
 
-## **Next Steps**
-
-Red Hat is here to help you on this journey, please contact us to assistance and questions with your Operator engineering efforts. Here is a quick set of next steps:  
-
+Red Hat is here to help you on this journey, please contact us to assistance and questions with your Operator engineering efforts. Here is a quick set of next steps:
 
 1. Download the Operator SDK tool
 2. Build an initial proof-of-concept Operator

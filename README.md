@@ -18,11 +18,5 @@ This guide will provide you with insight into the user experience that an Operat
 
 ## **Operators in 5 minutes**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kld1Fi8RrRQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-
+&lt;iframe width="560" height="315" src="[https://www.youtube.com/embed/kld1Fi8RrRQ](https://www.youtube.com/embed/kld1Fi8RrRQ)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 

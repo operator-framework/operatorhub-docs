@@ -2,7 +2,7 @@
 
 Red Hat Partners will need to meet both Certified Container \(the Operator image itself\) and Certified Operator requirements. These are described below, and Red Hat is happy to walk you through this process.
 
-#### Certified Container Image
+## Certified Container Image
 
 | \*\*\*\* | **Certified** |
 | :--- | :--- |
@@ -32,6 +32,5 @@ Red Hat Partners will need to meet both Certified Container \(the Operator image
 
 \[3\] Will be changed to UBI requirement once UBI is available
 
-\[4\] We currently allow both community and commercial content from partners. In the future, images labeled not community should be commercially supported.  
-
+\[4\] We currently allow both community and commercial content from partners. In the future, images labeled not community should be commercially supported.
 
