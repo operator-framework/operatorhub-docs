@@ -7,16 +7,13 @@ description: >-
 
 # Operator Developer Guide
 
-## **Introduction**
+## **This document has moved to:** [**Certified Build Guide**](https://redhat-connect.gitbook.io/certified-operator-guide/)\*\*\*\*
 
-Red Hat strongly believes that Operators provide the best Day 1 and Day 2 management experience for modern applications. Red Hat’s goal is twofold:
+### **Red Hat OpenShift Operator Certification** 
 
-1. Provide a set of tools to build high quality Operators that fulfill the promise of hybrid cloud
-2. Provide a discovery and distribution method to connect Red Hat customers with partners that solve the customer’s business problem\(s\) with Operators. Red Hat needs you – as the expert in your arena – to make our customers successful.
+Software providers that embrace the Operator Framework and want to target enterprise environments can pursue [Red Hat OpenShift Operator Certification](https://connect.redhat.com/en/partner-with-us/red-hat-openshift-operator-certification). Through this offering, partners can verify the functionality of an operator and its dependencies on Red Hat’s container platform, OpenShift.
 
-This guide will provide you with insight into the user experience that an Operator can provide, best practices for building an Operator, and some of the tools available to help you get up and running quickly with your Operator.
+Certified operators offer end users a broad range of applications and infrastructure that can be managed in a consistent manner, across both private and public clouds. OpenShift Certified Operators are backed up by collaborative support between Red Hat and our partners, extending trust from the container platform to the application stack.
 
-## **Operators in 5 minutes**
-
-&lt;iframe width="560" height="315" src="[https://www.youtube.com/embed/kld1Fi8RrRQ](https://www.youtube.com/embed/kld1Fi8RrRQ)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+[Learn more about Red Hat OpenShift Operator Certification](https://connect.redhat.com/en/partner-with-us/red-hat-openshift-operator-certification) ****
 
